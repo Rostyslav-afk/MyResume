@@ -1,20 +1,24 @@
-# Привіт! Я Ростислав 👋
+# Hi! I'm Rostyslav 👋
 
-🎓 Початковий Frontend розробник з базовими знаннями:
+🎓 Junior Frontend Developer with basic knowledge in:
 - 🖼️ HTML / CSS / SCSS
-- ⚙️ Git та GitHub
-- ⚡ Vue.js (базова збірка)
-- 📘 Вивчаю JavaScript
+- ⚙️ Git & GitHub
+- ⚡ Vue.js (basic setup)
+- 📘 Currently learning JavaScript and then React
 
-🔭 Зараз працюю над:
-- Проектами для портфоліо
-- Поглибленням знань з JavaScript та Vue, React
+🔭 Currently working on:
+- Portfolio projects
+- Deepening knowledge in JavaScript and Vue, React
 
-📫 Як зв’язатися зі мною:
+## Projects
+- 2 educational projects (team and individual)
+- 1 personal project
+
+## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/veazerr-dev-405559367/)
 - Email: goiteensschool@gmail.com
 
-🛠 Інструменти та технології:
+## 🛠 Tools & Technologies:
 ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-purple?logo=sass&logoColor=white)
