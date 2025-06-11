@@ -12,7 +12,7 @@
 
 ## Projects
 - 2 educational projects (team and individual)
-- 2 personal project
+- 3 personal project
 
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/veazerr-dev-405559367/)
