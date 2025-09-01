@@ -1,6 +1,6 @@
 # Hi! I'm Rostyslav 👋
 
-🎓 Junior Frontend Developer with basic knowledge in:
+🎓 Trainee Frontend Developer with basic knowledge in:
 - 🖼️ HTML / CSS / SCSS
 - ⚙️ Git & GitHub
 - ⚡ Vue.js (basic setup)
