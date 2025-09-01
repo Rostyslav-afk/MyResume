@@ -8,7 +8,7 @@
 
 🔭 Currently working on:
 - Portfolio projects
-- Deepening knowledge in JavaScript and Vue, React
+- Deepening knowledge in JavaScript, React
 
 ## Projects
 - 2 educational projects (team and individual)
