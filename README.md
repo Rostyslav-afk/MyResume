@@ -12,7 +12,13 @@
 
 ## Projects
 - Three educational projects (two team projects and one individual project)
+  [Coding Magic].(https://github.com/Rostyslav-afk/games-project)
+  [Flower Studio].(https://github.com/Horbunov-Yurii/team2project)
+  [Avatar].(https://github.com/Rostyslav-afk/Avatar)
 - Three personal projects
+  [Password Generator].(https://github.com/Rostyslav-afk/Password-Generator)
+  [To Do List App].(https://github.com/Rostyslav-afk/To-Do-List-App)
+  [Weather app].(https://github.com/Rostyslav-afk/Weather-App)
 
 ## 📫 How to reach me:
 - GitHub: [Rostyslav-afk](https://github.com/Rostyslav-afk)
