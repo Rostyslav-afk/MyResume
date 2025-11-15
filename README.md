@@ -1,4 +1,4 @@
-# Hi! I'm Rostyslav 👋
+# Hi! I'm Rostyslav!
 
 🎓 Trainee Frontend Developer with basic knowledge in:
 
