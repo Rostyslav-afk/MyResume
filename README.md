@@ -2,10 +2,10 @@
 
 🎓 Trainee Frontend Developer with basic knowledge in:
 
-- 🖼️ HTML / CSS / SCSS
+- 🖼️ HTML / CSS / JS / SCSS
 - ⚙️ Git & GitHub
 - ⚡ Vue.js (basic setup)
-- 📘 Currently learning JavaScript, Lua and React
+- 📘 Currently learning Lua and React
 
 🔭 Currently working on:
 
