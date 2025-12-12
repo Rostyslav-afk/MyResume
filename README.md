@@ -1,6 +1,6 @@
 # Hi! I'm Rostyslav!
 
-🎓 Trainee Frontend Developer with basic knowledge in:
+🎓 Trainee Frontend Developer with knowledge in:
 
 - 🖼️ HTML / CSS / JS / SCSS
 - ⚙️ Git & GitHub
