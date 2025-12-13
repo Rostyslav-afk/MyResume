@@ -16,8 +16,9 @@
 
 - Three educational projects (two team projects and one individual project)
   [Avatar](https://github.com/Rostyslav-afk/Avatar)
-  [Coding Magic](https://github.com/Rostyslav-afk/games-project)
+  [Travel agency](https://github.com/Rostyslav-afk/schoolwebsite)
   [Flower Studio](https://github.com/Horbunov-Yurii/team2project)
+  [Coding Magic](https://github.com/Rostyslav-afk/games-project)
 - Four personal projects
   [Password Generator](https://github.com/Rostyslav-afk/Password-Generator)
   [To Do List App](https://github.com/Rostyslav-afk/To-Do-List-App)
@@ -29,6 +30,7 @@
 
 - GitHub: [Rostyslav-afk](https://github.com/Rostyslav-afk)
 - Email: goiteensschool@gmail.com
+- Telegram: [@rost_ivf](https://t.me/rost_ivf)
 
 ## 🛠 Tools & Technologies:
 
