@@ -4,7 +4,6 @@
 
 - 🖼️ HTML / CSS / JS / SCSS
 - ⚙️ Git & GitHub
-- ⚡ Vite (basic setup)
 - 📘 Currently learning Lua and React
 
 🔭 Currently working on:
