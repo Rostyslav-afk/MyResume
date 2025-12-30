@@ -13,12 +13,13 @@
 
 ## Projects
 
-- Three educational projects (two team projects and one individual project)
+- Five educational projects (two team projects and one individual project)
   [Avatar](https://github.com/Rostyslav-afk/Avatar)
   [Travel agency](https://github.com/Rostyslav-afk/schoolwebsite)
   [Flower Studio](https://github.com/Horbunov-Yurii/team2project)
   [Coding Magic](https://github.com/Rostyslav-afk/games-project)
-- Four personal projects
+  [Event Booster](https://github.com/Rostyslav-afk/event-booster2)
+- Five personal projects
   [Password Generator](https://github.com/Rostyslav-afk/Password-Generator)
   [To Do List App](https://github.com/Rostyslav-afk/To-Do-List-App)
   [Weather app](https://github.com/Rostyslav-afk/Weather-App)
