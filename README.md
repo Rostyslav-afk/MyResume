@@ -4,12 +4,12 @@
 
 - 🖼️ HTML / CSS / JS / SCSS
 - ⚙️ Git & GitHub
-- 📘 Currently learning Lua and React
+- 📘 Currently learning Python, Luau
 
 🔭 Currently working on:
 
 - Portfolio projects
-- Deepening knowledge in JavaScript, React
+- Deepening knowledge in JavaScript, TypeScript
 
 ## Projects
 
@@ -29,9 +29,9 @@
 ## 📫 How to reach me:
 
 - GitHub: [Rostyslav-afk](https://github.com/Rostyslav-afk)
-- Email: goiteensschool@gmail.com
 - Telegram: [@rost_ivf](https://t.me/rost_ivf)
-
+- Website: [Webiste Request](https://makesite-request.netlify.app/)
+- Email: goiteensschool@gmail.com
 ## 🛠 Tools & Technologies:
 
 ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
