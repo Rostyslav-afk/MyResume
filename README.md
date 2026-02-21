@@ -2,14 +2,12 @@
 
 🎓 Trainee Frontend Developer with knowledge in:
 
-- 🖼️ HTML / CSS / JS / SCSS
+- 🖼️ HTML / CSS / SCSS / JS 
 - ⚙️ Git & GitHub
-- 📘 Currently learning Python, Luau
+- 📘 Currently learning TypeScript
 
 🔭 Currently working on:
-
-- Portfolio projects
-- Deepening knowledge in JavaScript, TypeScript
+  - Portfolio projects
 
 ## Projects
 
