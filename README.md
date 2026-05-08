@@ -37,5 +37,5 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-purple?logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=white)
-![TypeScript](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1280px-Typescript.svg.png)
+![TypeScript](https://img.shields.io/badge/-TypeScript-61dafb?logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
