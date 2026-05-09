@@ -17,7 +17,8 @@
  - [Avatar](https://github.com/veazerrDev/Avatar)
  - [Password Generator](https://github.com/veazerrDev/Password-Generator)
  - [To Do List App](https://github.com/veazerrDev/To-Do-List-App)
- - [Weather app](https://github.com/veazerrDev/Weather-App)
+ - [Weather App](https://github.com/veazerrDev/Weather-App)
+ - [QrGenerator App](https://github.com/veazerrDev/QrGenerator)
 
 ## 📫 How to reach me:
 
