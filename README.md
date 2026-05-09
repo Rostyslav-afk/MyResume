@@ -1,41 +1,38 @@
 # Hi! I'm Rostyslav!
 
+🎂 13 years old  
 🎓 Trainee Frontend Developer with knowledge in:
 
-- 🖼️ HTML / CSS / SCSS / JS / TS
-- ⚙️ Git & GitHub
+- 🖼️ HTML / CSS / SCSS / JS / TypeScript
+- ⚙️ Git, GitHub & Node.js
 - 📘 Currently learning React
 
 🔭 Currently working on:
   - Portfolio projects
+  - Learning new technologies
 
-## Projects
-
-- Five educational projects (two team projects and one individual project)
-  [Avatar](https://github.com/Rostyslav-afk/Avatar)
-  [Travel agency](https://github.com/Rostyslav-afk/schoolwebsite)
-  [Flower Studio](https://github.com/Horbunov-Yurii/team2project)
-  [Coding Magic](https://github.com/Rostyslav-afk/games-project)
-  [Event Booster](https://github.com/Rostyslav-afk/event-booster2)
-- Five personal projects
-  [Password Generator](https://github.com/Rostyslav-afk/Password-Generator)
-  [To Do List App](https://github.com/Rostyslav-afk/To-Do-List-App)
-  [Weather app](https://github.com/Rostyslav-afk/Weather-App)
-  [Pokedex Viewer](https://github.com/Rostyslav-afk/Poxedex-Viewer)
-  [Student Base](https://github.com/Rostyslav-afk/goit-js-4-hw-18)
+## My projects
+ - [Flower Studio](https://github.com/Horbunov-Yurii/team2project)
+ - [Event Booster](https://github.com/veazerrDev/event-booster2)
+ - [Avatar](https://github.com/veazerrDev/Avatar)
+ - [Password Generator](https://github.com/veazerrDev/Password-Generator)
+ - [To Do List App](https://github.com/veazerrDev/To-Do-List-App)
+ - [Weather app](https://github.com/veazerrDev/Weather-App)
 
 ## 📫 How to reach me:
 
-- GitHub: [Rostyslav-afk](https://github.com/Rostyslav-afk)
+- GitHub: [veazerrDev](https://github.com/veazerrDev)
 - Telegram: [@rost_ivf](https://t.me/rost_ivf)
-- Website: [Webiste Request](https://makesite-request.netlify.app/)
+- Website: [Website Request](https://makesite-request.netlify.app/)
 - Email: goiteensschool@gmail.com
-## 🛠 Tools & Technologies:
+## 🛠 Tools & Technologies i use:
 
 ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blue?logo=css&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-purple?logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-61dafb?logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-68A063?logo=node.js&logoColor=white)
