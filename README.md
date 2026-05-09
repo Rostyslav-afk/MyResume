@@ -12,6 +12,7 @@
   - Learning new technologies
 
 ## My projects
+ - [WebStudio](https://github.com/veazerrDev/WebStudio)
  - [Flower Studio](https://github.com/Horbunov-Yurii/team2project)
  - [Event Booster](https://github.com/veazerrDev/event-booster2)
  - [Avatar](https://github.com/veazerrDev/Avatar)
